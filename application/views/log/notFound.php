@@ -1,0 +1,1 @@
+<div class="encabezado"><?php echo $visor->getEncabezado(); ?></div>

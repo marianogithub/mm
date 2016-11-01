@@ -1,0 +1,32 @@
+- https://www.openshift.com/
+username: diegobq@gmail.com
+password: SGE2295sge
+---------------------------------------------------------------------------
+- Sitio
+http://php-sgemaipu.rhcloud.com/
+---------------------------------------------------------------------------
+- MySQL y PHPMyAdmin
+URL: https://php-sgemaipu.rhcloud.com/phpmyadmin
+Root User: adminBAwUVMQ
+Root Password: eP2Hqs8S4F3v
+Database Name: php
+host: 127.13.71.2
+port: 3306
+
+OPENSHIFT_MYSQL_DB_PORT=3306
+OPENSHIFT_MYSQL_DB_HOST=127.13.71.2
+OPENSHIFT_MYSQL_DB_PASSWORD=eP2Hqs8S4F3v
+OPENSHIFT_MYSQL_DB_USERNAME=adminBAwUVMQ
+---------------------------------------------------------------------------
+- Jenkins
+URL: https://jenkins-sgemaipu.rhcloud.com
+User: admin
+Password: pgxSZfRJk7ZV
+---------------------------------------------------------------------------
+- Codigo
+ssh://539cde945973ca838100024e@php-sgemaipu.rhcloud.com/~/git/php.git/
+public key
+name: sgemaipu
+---------------------------------------------------------------------------
+SSH
+539cde945973ca838100024e@php-sgemaipu.rhcloud.com
